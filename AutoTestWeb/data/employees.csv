@@ -1,0 +1,19 @@
+﻿id,firstname,middlename,lastname,username,password,confirm password,email,expected result
+emp000,Marquise,Sherleen,Fields,user000,Password@000,Password@000,fields@gmail.com,Successfully Saved
+emp001,Kenneth,Miriam,Murphy,user001,Password@000,Password@000,murphy@gmail.com,"Input FirstName: Required, Input LastName: Required, "
+emp000,Gustavo,Troy,Villa,user002,Password@000,Password@000,villa@gmail.com,Input ID: Employee Id already exists
+,Jakob,Oliver,Villegas,user003,Password@000,Password@000,villegas@gmail.com,Input ID: Required
+emp4567891,Baron,Felix,Dominguez,user004,Password@000,Password@000,dominguez@gmail.com,Successfully Saved
+emp1000009999,Tyree,Ace,Bowers,user005,Password@000,Password@000,bowers@gmail.com,Input ID: Should not exceed 10 characters
+emp006,Axel,Sharon,Whitney,,Password@000,Password@000,whitney@gmail.com,Username Input: Required
+emp007,Jadiel,Kae,Lowe,user0,Password@000,Password@000,lowe@gmail.com,Successfully Saved
+emp008,Julius,Rose,Moran,u,Password@000,Password@000,moran@gmail.com,Username Input: Should be least 5 characters
+emp009,Manuel,Devon,May,user009,,,may@gmail.com,"Password Input: Required, Confirm Password Input: Required"
+emp010,Antony,Rylie,Park,user010,Pass000@,Pass000@,park@gmail.com,Successfully Saved
+emp011,Jayce,Oren,Chavez,user011,1a@,1a@,chavez@gmail.com,"Password Input: Should have at least 8 characters, Confirm Password Input: Should have at least 8 characters"
+emp012,Deon,Doran,Lester,user012,aaqqtt@A,aaqqtt@A,lester@gmail.com,"Password Input: Your password must contain a lower-case letter, an upper-case letter, a digit and a special character. Try a different password, Confirm Password Input: Your password must contain a lower-case letter, an upper-case letter, a digit and a special character. Try a different password"
+emp013,Sawyer,Merle,Perkins,user013,123456@A,123456@A,perkins@gmail.com,"Password Input: Your password must contain a lower-case letter, an upper-case letter, a digit and a special character. Try a different password, Confirm Password Input: Your password must contain a lower-case letter, an upper-case letter, a digit and a special character. Try a different password"
+emp014,Tristin,Clementine,Lynch,user014,123456@aa,123456@aa,lynch@gmail.com,"Password Input: Your password must contain a lower-case letter, an upper-case letter, a digit and a special character. Try a different password, Confirm Password Input: Your password must contain a lower-case letter, an upper-case letter, a digit and a special character. Try a different password"
+emp015,August,Ashten,Walls,user015,123456aaA,123456aaA,walls@gmail.com,"Password Input: Your password must contain a lower-case letter, an upper-case letter, a digit and a special character. Try a different password, Confirm Password Input: Your password must contain a lower-case letter, an upper-case letter, a digit and a special character. Try a different password"
+emp016,Immanuel,Gregory,Haynes,user016,Password@000,Password@123,haynes@gmail.com,Confirm Password Input: Passwords do not match
+Mã Nviên,Thọ,Tấn,Huỳnh,tanthokg,MậtKhẩu123@,MậtKhẩu123@,htho379@gmail.com,Successfully Saved

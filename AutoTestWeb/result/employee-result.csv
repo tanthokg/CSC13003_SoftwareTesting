@@ -1,0 +1,18 @@
+TC#1, Input: emp000-Marquise-Sherleen-Fields-user000-Password@000, Expected output: Successfully Saved, - Actual output: Success, Result: Pass
+TC#2, Input: emp001-Kenneth-Miriam-Murphy-user001-Password@000, Expected output: "Input FirstName: Required, - Actual output: Success, Result: Pass
+TC#3, Input: emp000-Gustavo-Troy-Villa-user002-Password@000, Expected output: Input ID: Employee Id already exists, - Actual output: ID Input: Employee Id already exists, Result: Pass
+TC#4, Input: -Jakob-Oliver-Villegas-user003-Password@000, Expected output: Input ID: Required, - Actual output: Success, Result: Pass
+TC#5, Input: emp4567891-Baron-Felix-Dominguez-user004-Password@000, Expected output: Successfully Saved, - Actual output: Success, Result: Pass
+TC#6, Input: emp1000009999-Tyree-Ace-Bowers-user005-Password@000, Expected output: Input ID: Should not exceed 10 characters, - Actual output: ID Input: Should not exceed 10 characters, 
+TC#7, Input: emp006-Axel-Sharon-Whitney--Password@000, Expected output: Username Input: Required, - Actual output: 
+TC#8, Input: emp007-Jadiel-Kae-Lowe-user0-Password@000, Expected output: Successfully Saved, - Actual output: Success, Result: Pass
+TC#9, Input: emp008-Julius-Rose-Moran-u-Password@000, Expected output: Username Input: Should be least 5 characters, - Actual output: Username Input: Should be least 5 characters, 
+TC#10, Input: emp009-Manuel-Devon-May-user009-, Expected output: "Password Input: Required, - Actual output: 
+TC#11, Input: emp010-Antony-Rylie-Park-user010-Pass000@, Expected output: Successfully Saved, - Actual output: Success, Result: Pass
+TC#12, Input: emp011-Jayce-Oren-Chavez-user011-1a@, Expected output: "Password Input: Should have at least 8 characters, - Actual output: Password Input: Should have at least 8 characters, 
+TC#13, Input: emp012-Deon-Doran-Lester-user012-aaqqtt@A, Expected output: "Password Input: Your password must contain a lower-case letter, - Actual output: Password Input: Your password must contain a lower-case letter, an upper-case letter, a digit and a special character. Try a different password, 
+TC#14, Input: emp013-Sawyer-Merle-Perkins-user013-123456@A, Expected output: "Password Input: Your password must contain a lower-case letter, - Actual output: Password Input: Your password must contain a lower-case letter, an upper-case letter, a digit and a special character. Try a different password, 
+TC#15, Input: emp014-Tristin-Clementine-Lynch-user014-123456@aa, Expected output: "Password Input: Your password must contain a lower-case letter, - Actual output: Password Input: Your password must contain a lower-case letter, an upper-case letter, a digit and a special character. Try a different password, 
+TC#16, Input: emp015-August-Ashten-Walls-user015-123456aaA, Expected output: "Password Input: Your password must contain a lower-case letter, - Actual output: Password Input: Your password must contain a lower-case letter, an upper-case letter, a digit and a special character. Try a different password, 
+TC#17, Input: emp016-Immanuel-Gregory-Haynes-user016-Password@000, Expected output: Confirm Password Input: Passwords do not match, - Actual output: Confirm Password Input: Passwords do not match, 
+TC#18, Input: Mã Nviên-Thọ-Tấn-Huỳnh-tanthokg-MậtKhẩu123@, Expected output: Successfully Saved, - Actual output: Success, Result: Pass
